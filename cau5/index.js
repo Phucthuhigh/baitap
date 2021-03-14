@@ -5,5 +5,3 @@ function student(name, age, address) {
         address: address
     }
 }
-
-console.log(student("Phuc", 14, "Dong den"));
